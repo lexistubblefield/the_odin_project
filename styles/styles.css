@@ -8,11 +8,12 @@
     align-items: flex-end;
     flex-direction: row; 
     background-color: lightgrey;
-  width: 1800px;
+  width: 1875px;
   padding: 20px;
 }
-#center {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
